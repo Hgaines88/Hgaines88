@@ -23,4 +23,4 @@ My current focus is turning complex datasets into reliable pipelines and useful 
 
 I'm currently open to opportunities where I can contribute, keep learning, and grow as a data engineer.
 
-**Contact:** [hakeemjgaines@gmail.com](mailto:hakeemjgaines@gmail.com)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/hakeemjgaines/) · [hakeemjgaines@gmail.com](mailto:hakeemjgaines@gmail.com)
