@@ -1,4 +1,4 @@
-# Hi, I'm Hakeem Gaines
+# I'm Hakeem Gaines, you might notice my digital signature (h)gaines. here and there.
 
 I'm a data engineering student in Wilmington, Delaware, building practical software with Python, SQL, APIs, analytics, and modern web tools.
 
