@@ -19,7 +19,7 @@ My current focus is turning complex datasets into reliable pipelines and useful 
 
 ## Currently building
 
-**[Trainspotting](https://github.com/Hgaines88/Trainspotting)** — A new, security-focused evolution of my fashion archive, with authenticated administration and a moderated, source-driven contribution workflow. The repository is private while active development is underway.
+**[Trainspotting](https://github.com/Hgaines88/Trainspotting)** — A new, security-focused evolution of my fashion archive, with authenticated administration and a moderated, source-driven contribution workflow.
 
 I'm currently open to opportunities where I can contribute, keep learning, and grow as a data engineer.
 
