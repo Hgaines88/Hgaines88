@@ -6,7 +6,7 @@ My current focus is turning complex datasets into reliable pipelines and useful 
 
 ## Featured work
 
-- **[OnesToManys](https://github.com/Hgaines88/OnesToManys)** — A full-stack fashion collection archive built with FastAPI, SQLite, React, Docker, and tested migrations.
+- **[New York Digital City]([https://github.com/Hgaines88/SparkCity_Capstone])** — A PySpark-based smart city IoT analytics application. It ingests traffic, air quality, weather, energy, and occupancy sensor data, runs data quality checks, and persists results to PostgreSQL via a Dockerized Spark cluster, with a Streamlit dashboard delivering real-time city operations insights.
 - **[MediciMess](https://github.com/MediciMessCharlie/MediciMess_Charlie)** — A team-built historical banking analytics platform with ETL pipelines, financial KPIs, anomaly detection, FastAPI, and Dash.
 - **[future-proof-HG](https://github.com/Hgaines88/future-proof-HG)** — A zero-dependency Python CLI for durable Markdown notes, YAML metadata, search, tags, and pytest coverage.
 - **[MuseumsNotebook](https://github.com/Hgaines88/MuseumsNotebook)** — Exploratory analysis of U.S. museum, zoo, aquarium, revenue, and geographic data using Jupyter and pandas.
