@@ -1,4 +1,4 @@
-# I'm Hakeem Gaines, digitally know as (h)gaines.
+# I'm Hakeem Gaines, digitally known as (h)gaines.
 
 I'm a data engineering student in Wilmington, Delaware, building practical software with Python, SQL, APIs, analytics, and modern web tools.
 
@@ -6,8 +6,44 @@ My current focus is turning complex datasets into reliable pipelines and useful 
 
 ## Featured work
 
-- **[New York Digital City](https://github.com/Hgaines88/SparkCity_Capstone)** — A PySpark-based smart city IoT analytics application. It ingests traffic, air quality, weather, energy, and occupancy sensor data, runs data quality checks, and persists results to PostgreSQL via a Dockerized Spark cluster, with a Streamlit dashboard delivering real-time city operations insights.
-- **[MediciMess](https://github.com/MediciMessCharlie/MediciMess_Charlie)** — A team-built historical banking analytics platform with ETL pipelines, financial KPIs, anomaly detection, FastAPI, and Dash.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Hgaines88/SparkCity_Capstone">
+        <img src="https://raw.githubusercontent.com/Hgaines88/SparkCity_Capstone/main/docs/images/sparkcity-capstone.png" alt="New York Digital City planning dashboard" width="100%">
+      </a>
+      <h3><a href="https://github.com/Hgaines88/SparkCity_Capstone">New York Digital City</a></h3>
+      <p>PySpark data pipelines, validation, PostgreSQL, and an interactive Streamlit planning dashboard for mobility, environment, capacity, fiscal impact, and convention scenarios.</p>
+      <p><code>Python</code> <code>PySpark</code> <code>PostgreSQL</code> <code>Streamlit</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MediciMessCharlie/MediciMess_Charlie">
+        <img src="https://raw.githubusercontent.com/MediciMessCharlie/MediciMess_Charlie/main/docs/images/medicimess-network-overview.png" alt="MediciMess banking network analytics dashboard" width="100%">
+      </a>
+      <h3><a href="https://github.com/MediciMessCharlie/MediciMess_Charlie">MediciMess</a></h3>
+      <p>A team-built historical banking analytics platform with ETL pipelines, financial KPIs, anomaly detection, FastAPI, and Dash.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Dash</code> <code>ETL</code></p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <a href="https://github.com/Hgaines88/Trainspotting">
+        <img src="https://raw.githubusercontent.com/Hgaines88/Trainspotting/main/docs/demo-release-homepage.png" alt="Trainspotting fashion archive homepage" width="100%">
+      </a>
+    </td>
+    <td width="42%" valign="top">
+      <h3><a href="https://github.com/Hgaines88/Trainspotting">Currently building: Trainspotting</a></h3>
+      <p>A security-focused evolution of my fashion archive, with authenticated administration and a moderated, source-driven contribution workflow.</p>
+      <p><code>Python</code> <code>React</code> <code>APIs</code> <code>Security</code></p>
+    </td>
+  </tr>
+</table>
+
+## More projects
+
 - **[future-proof-HG](https://github.com/Hgaines88/future-proof-HG)** — A zero-dependency Python CLI for durable Markdown notes, YAML metadata, search, tags, and pytest coverage.
 - **[MuseumsNotebook](https://github.com/Hgaines88/MuseumsNotebook)** — Exploratory analysis of U.S. museum, zoo, aquarium, revenue, and geographic data using Jupyter and pandas.
 - **[Database-SQLite3](https://github.com/Hgaines88/Database-SQLite3)** — An interactive Python and SQLite tutor covering SQL fundamentals, joins, indexes, and a capstone.
@@ -15,11 +51,7 @@ My current focus is turning complex datasets into reliable pipelines and useful 
 
 ## Tools I use
 
-`Python` · `SQL` · `SQLite` · `pandas` · `FastAPI` · `React` · `JavaScript` · `Docker` · `pytest` · `Git`
-
-## Currently building
-
-**[Trainspotting](https://github.com/Hgaines88/Trainspotting)** — A new, security-focused evolution of my fashion archive, with authenticated administration and a moderated, source-driven contribution workflow.
+`Python` · `SQL` · `SQLite` · `PostgreSQL` · `PySpark` · `pandas` · `FastAPI` · `Streamlit` · `React` · `JavaScript` · `Docker` · `pytest` · `Git`
 
 I'm currently open to opportunities where I can contribute, keep learning, and grow as a data engineer.
 
