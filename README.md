@@ -27,20 +27,15 @@ My current focus is turning complex datasets into reliable pipelines and useful 
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <a href="https://github.com/Hgaines88/Trainspotting">
-        <img src="https://raw.githubusercontent.com/Hgaines88/Trainspotting/main/docs/demo-release-homepage.png" alt="Trainspotting fashion archive homepage" width="100%">
-      </a>
-    </td>
-    <td width="42%" valign="top">
-      <h3><a href="https://github.com/Hgaines88/Trainspotting">Currently building: Trainspotting</a></h3>
-      <p>A security-focused evolution of my fashion archive, with authenticated administration and a moderated, source-driven contribution workflow.</p>
-      <p><code>Python</code> <code>React</code> <code>APIs</code> <code>Security</code></p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/Hgaines88/Trainspotting">
+  <img src="https://raw.githubusercontent.com/Hgaines88/Trainspotting/main/docs/profile-feature.png" alt="Trainspotting fashion archive showing its transit-inspired masthead, discovery navigation, and designer index" width="100%">
+</a>
+
+### [Trainspotting — Fashion history in motion](https://github.com/Hgaines88/Trainspotting)
+
+A structured fashion archive connecting designers, labels, collections, seasons, credits, and primary sources through a responsive discovery interface. Built with FastAPI, React, MySQL, Clerk authentication, and a moderated contribution workflow.
+
+<p><code>FastAPI</code> <code>React</code> <code>MySQL</code> <code>Data Modeling</code> <code>Authentication</code></p>
 
 ## More projects
 
