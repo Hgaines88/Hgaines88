@@ -18,7 +18,7 @@ I build data pipelines and applications that turn complex datasets into reliable
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/MediciMessCharlie/MediciMess_Charlie">
-        <img src="https://raw.githubusercontent.com/MediciMessCharlie/MediciMess_Charlie/main/docs/images/medicimess-network-overview.png" alt="MediciMess banking network analytics dashboard" width="100%">
+        <img src="https://raw.githubusercontent.com/MediciMessCharlie/MediciMess_Charlie/main/docs/images/medicimess-cash-flow-dashboard.jpeg" alt="MediciMess banking intelligence dashboard showing cash-flow trends, monthly inflows and outflows, and financial records" width="100%">
       </a>
       <h3><a href="https://github.com/MediciMessCharlie/MediciMess_Charlie">MediciMess</a></h3>
       <p>A collaborative historical banking intelligence platform with ETL pipelines, a read-only FastAPI layer, branch-level financial KPIs, loan and cash-flow analysis, anomaly detection, and an interactive Dash interface.</p>
