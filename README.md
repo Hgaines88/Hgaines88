@@ -1,8 +1,10 @@
 # I'm Hakeem Gaines—digitally known as (h)gaines.
 
-I'm a data engineering student in Wilmington, Delaware.
+I'm a data engineer in Wilmington, Delaware.
 
 I build data pipelines and applications that turn complex datasets into reliable, useful systems. My work emphasizes clear data models, validation, tested APIs, thoughtful interfaces, and secure access control.
+
+I recently completed an intensive 1,000+ hour Data Engineering & Analytics program at Zip Code Wilmington. Before transitioning into data engineering, I spent more than eight years coordinating technical projects and teaching IT and project-management fundamentals—experience that shapes how I communicate, document, and deliver software.
 
 ## Featured work
 
@@ -13,7 +15,7 @@ I build data pipelines and applications that turn complex datasets into reliable
         <img src="https://raw.githubusercontent.com/Hgaines88/SparkCity_Capstone/main/docs/images/sparkcity-capstone.png" alt="New York Digital City planning dashboard" width="100%">
       </a>
       <h3><a href="https://github.com/Hgaines88/SparkCity_Capstone">New York Digital City</a></h3>
-      <p>A data engineering capstone that ingests and validates seven categories of city data with PySpark, stores shared datasets in PostgreSQL, and presents planning scenarios through an interactive Streamlit dashboard.</p>
+      <p>A team data-engineering capstone built with PySpark, PostgreSQL, and Streamlit. I owned the fiscal-impact workstream end to end: building its ingestion pipeline, validating records before database loading, and developing the scenario model and dashboard page.</p>
       <p><code>PySpark</code> <code>PostgreSQL</code> <code>Data Validation</code> <code>Streamlit</code></p>
     </td>
     <td width="50%" valign="top">
@@ -33,7 +35,7 @@ I build data pipelines and applications that turn complex datasets into reliable
 
 ### [Trainspotting — Fashion history in motion](https://github.com/Hgaines88/Trainspotting)
 
-A structured fashion archive connecting designers, labels, collections, seasons, credits, and primary sources through a responsive discovery experience. Built with FastAPI, React, MySQL, Clerk authentication, and a moderated contribution workflow.
+A structured fashion archive with Clerk-authenticated administration and a moderated source-review workflow. I migrated its database from SQLite to MySQL, added automated backend and frontend verification, and deployed the application on Railway.
 
 <p><code>FastAPI</code> <code>React</code> <code>MySQL</code> <code>Data Modeling</code> <code>Authentication</code></p>
 
@@ -46,10 +48,11 @@ A structured fashion archive connecting designers, labels, collections, seasons,
 
 ## Tools I use
 
-**Languages:** Python · SQL · JavaScript<br>
-**Data:** PySpark · pandas · PostgreSQL · MySQL · SQLite<br>
+**Languages & Web:** Python · SQL · JavaScript · HTML · CSS<br>
+**Data:** PySpark · pandas · Databricks · PostgreSQL · MySQL · SQLite · SQLAlchemy<br>
 **Applications:** FastAPI · React · Streamlit · Dash<br>
-**Engineering:** Docker · pytest · Git
+**Engineering:** Docker · CI/CD · pytest · Playwright · Git · Railway<br>
+**Analytics:** Jupyter · Matplotlib · Seaborn · scikit-learn
 
 I'm open to data engineering opportunities where I can contribute to reliable pipelines, analytics systems, and data-backed products while continuing to grow.
 
